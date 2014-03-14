@@ -1,4 +1,4 @@
 hulk
 ====
 
-Monitoring and Management Web Application for Hadoop instances and clusters.
+Monitoring and Management Android Application for Hadoop instances and clusters.
